@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/simgeakay/Desktop/tflearn-master/data_au1_train.h5py"
+all_model_checkpoint_paths: "/Users/simgeakay/Desktop/tflearn-master/data_au1_train.h5py"
